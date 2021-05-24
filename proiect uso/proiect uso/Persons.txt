@@ -1,0 +1,9 @@
+Persons
+PersonID LastName FirstName Address City 
+int varchar varchar varchar varchar 
+Cardinal, Tom B. Erichsen, Skagen 21, Stavanger, 4006, 
+Cardinal, Tom B. Erichsen, Skagen 21, Stavanger, 4006, 
+Cardinal, Tom B. Erichsen, Skagen 21, Stavanger, 4006, 
+Cardinal, Tom B. Erichsen, Skagen 21, Stavanger, 4006, 
+tataie, Tom B. mamaie, Skagenda, Stavangerdasd, 4006dasa, 
+tataie, Tom B. mamaie, Skagenda, Stavangerdasd, 4006dasa, 

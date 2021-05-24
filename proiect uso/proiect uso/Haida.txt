@@ -1,0 +1,5 @@
+Haida
+PersonID LastName FirstName Address City merge 
+int varchar varchar varchar varchar varchar 
+Cardinal, Alfred Schmidt1234, Skagen 21, Stavanger, Frankfurt1234, dasdad, 
+Cardinal, Alfred Schmidt1234, dinozaur, tarantula, Frankfurt1234, dasdad, 

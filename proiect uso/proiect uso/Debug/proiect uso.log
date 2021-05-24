@@ -1,0 +1,33 @@
+﻿  Source.cpp
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(28,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(31,24): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(33,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(53,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(91,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(107,26): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(114,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(128,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(137,62): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(148,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(164,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(233,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(239,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(247,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(248,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(274,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(300,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(303,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(305,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(316,31): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(320,39): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(425,18): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(427,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(428,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(432,35): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(438,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(449,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(452,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(453,22): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(456,34): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Me\Desktop\proiect uso\proiect uso\Source.cpp(465): warning C4715: 'Update': not all control paths return a value
+  proiect uso.vcxproj -> C:\Users\Me\Desktop\proiect uso\Debug\proiect uso.exe

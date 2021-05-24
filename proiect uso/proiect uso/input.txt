@@ -1,0 +1,6 @@
+
+UPDATE Haida
+SET LastName= 'Alfred Schmidt1234', City= 'Frankfurt1234',
+WHERE FirstName= 'Skagen 21', Address= 'tarantula',;
+
+QUIT
